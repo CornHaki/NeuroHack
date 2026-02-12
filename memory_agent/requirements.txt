@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-google-genai
+qdrant-client
+fastapi
+uvicorn
+python-dotenv
+streamlit
+pydantic
+langchain-huggingface
