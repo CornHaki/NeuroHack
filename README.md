@@ -58,6 +58,3 @@ graph TD
     E --> F[LLM Prompt]
     F --> G[Groq / Llama 3]
     G --> H[Response: 'Your code is BlueMonkey99']
-    E --> F[LLM Prompt]
-    F --> G[Groq / Llama 3]
-    G --> H[Response: "Your code is BlueMonkey99"]
